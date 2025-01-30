@@ -15,3 +15,5 @@ Example output: `{ 16.855, -6.000, -51.214, 95 }, -- !pos 16.855 -6.000 -51.214 
 To use these tables in entity methods such as `setPos`, you can use the table `unpack` function.
 
 Example: `player:setPos(unpack(tbl))`
+
+(Special thanks to Noomi for inspiring this addon!)
