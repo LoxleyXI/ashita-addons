@@ -7,6 +7,9 @@ If you found my addons helpful, please consider kindly supporting my other work 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/loxleygames)
 
+## customcolors
+The `customcolors` addon allows custom content to generate text that appears in color, creating a more polished and retail accurate experience. The addon will recolor text whenever it matches a regex pattern found in `messages.lua`.
+
 ## pos
 The `pos` addon is simple, every time you use the `/pos` command in game, it copies your character's current position into the clipboard, appropriately formatted for lua tables. It also includes a comment to easily return to that position. This saves a huge amount of time when developing custom content and placing objects in the world, as you can rapidly generate positions and paste them into your templates. This works great for placing objects in [LQS](https://github.com/LoxleyXI/LQS) and [LGS](https://github.com/LoxleyXI/LGS).
 
